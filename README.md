@@ -33,3 +33,6 @@ The data set used is a custom made data set compiled by  taking the stats from d
 
 # Result  
 Our model was able to predict a certain number of Followers gained but the error can be decresed further by optimizing it. We can also try and use a few features like whether the streamer is twitch partnered or not,etc. <br>
+Our Result: <br>
+
+![alt text](https://github.com/AM1CODES/TwitchTopStreamers-Analysis/blob/main/Twitch-Result.PNG?raw=true)
